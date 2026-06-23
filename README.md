@@ -2,6 +2,9 @@
 
 This app uses the local Gemma4 endpoint from `gemma-main.py`:
 
+LM-Studio quantized models:
+https://lmstudio.ai/models/gemma-4
+
 ```text
 http://0.0.0.0:8000/chat/local_llm/
 ```
