@@ -12,7 +12,7 @@ It accepts Spanish `.txt`, `.md`, `.docx`, and `.pdf` files, extracts their text
 
 ```bash
 conda activate trnsf
-cd /<your_path>/translate
+python gemma-main.py
 python app.py
 ```
 
