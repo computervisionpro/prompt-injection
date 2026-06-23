@@ -1,6 +1,6 @@
-# Spanish to English Streamlit Translator
+# Spanish to English Translator
 
-This app uses the existing local Gemma4 endpoint from `test_request.py`:
+This app uses the local Gemma4 endpoint from `gemma-main.py`:
 
 ```text
 http://0.0.0.0:8000/chat/local_llm/
@@ -12,14 +12,14 @@ It accepts Spanish `.txt`, `.md`, `.docx`, and `.pdf` files, extracts their text
 
 ```bash
 conda activate trnsf
-cd /home/cvpro/code_files/translate
+cd /<your_path>/translate
 python app.py
 ```
 
-Running `python app.py` starts Streamlit on port `8550` and opens Windows Edge at:
+Running `python app.py` starts Streamlit on port `8550` and opens Edge browser at:
 
 ```text
 http://127.0.0.1:8550
 ```
 
-Keep the Gemma4 service running before you translate. You can edit the endpoint in the app if the service is exposed at a different host or port.
+Keep the Gemma4 service running before you translate. You can also edit the endpoint in the app if the service is exposed at a different host or port.
