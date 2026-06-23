@@ -1,4 +1,4 @@
-# Spanish to English Translator
+# Prompt Injection in Translation
 
 This app uses the local Gemma4 endpoint from `gemma-main.py`:
 
