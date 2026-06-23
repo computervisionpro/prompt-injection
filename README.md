@@ -14,7 +14,7 @@ It accepts Spanish `.txt`, `.md`, `.docx`, and `.pdf` files, extracts their text
 ## Run
 
 ```bash
-conda activate trnsf
+conda activate <your_env>
 python gemma-main.py
 python app.py
 ```
