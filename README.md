@@ -3,7 +3,7 @@
 This app uses the local Gemma4 endpoint from `gemma-main.py`:
 
 
-<img src="https://github.com/computervisionpro/prompt-injection/tree/main/assets/translate-img.png" alt="Translation" width="600" height="370">
+<img src="https://github.com/computervisionpro/prompt-injection/blob/main/assets/translate-img.png" alt="Translation" width="600" height="370">
 
 
 
